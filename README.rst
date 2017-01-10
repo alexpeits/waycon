@@ -8,7 +8,7 @@ Usage
 -----
 
 Cells that are "on" must be stars (*) in the file.
-Everything else is considered as "off"
+Everything else is considered as "off".::
 
-::
+
     $ python conway.py < example_grid.txt
