@@ -12,3 +12,5 @@ Everything else is considered as "off".::
 
 
     $ python conway.py < example_grid.txt
+
+The field is a torus by default (will make it optional).
